@@ -1,0 +1,1 @@
+Este es el codigo minimo para poder manejar los sensores y actuadores del robot.
